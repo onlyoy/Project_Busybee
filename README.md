@@ -10,6 +10,7 @@
 [Busy Bee 프로젝트 소개.pdf](https://github.com/onlyoy/Project_Busybee/files/11622914/_.10_._.pdf)
 
 <br/><br/><br/>
+<h3>📚 Summary 📚</h3>
 교육기관 멀티캠퍼스에서 진행한 팀 세미 프로젝트 결과물입니다
 
 팀적으로 협업이 필요한 여러분에게 그룹기능을 통해서 그룹원과 일정, 게시판, 채팅 등을 그룹 내에서 공유하고 협업할 수 있도록 지원해주는 협업툴 웹 서비스 입니다
@@ -19,5 +20,7 @@
 처음으로 $\textcolor{blue}{\textsf{Git}}$을 이용하여 다른 사람들과 협업을 해보고,
 
 $\textcolor{red}{\textsf{Spring framework}}$로 웹 개발의 시작을 끊으면서 구글링이나 팀원들과의 소통을 통해서 모르던 기능들을 습득하게 되었던 프로젝트 입니다.
+
+
 
 
