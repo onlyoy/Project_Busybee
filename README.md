@@ -40,5 +40,10 @@ $\textcolor{red}{\textsf{Spring framework}}$로 웹 개발의 시작을 끊으�
 
 2주라는 짧은 기간이었지만 함께하면서 도움을 준 팀원들에게 너무 감사하고 스스로 부족한 부분이 무엇인지 깨닫게 되었고, 앞으로 더욱 노력 해야겠다고 느꼈던 프로젝트입니다.
 
-
-
+<br/>
+<h3>📚 Skill set 📚</h3>
+<ul>
+   <li>FrontEnd : JavaScript, jquery, ajax</li>
+   <li>BackEnd : SpringFramework, ApacheTomcat, MySQL</li>
+   <li>Deployment : </li>
+</ul>
