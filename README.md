@@ -9,7 +9,7 @@
 
 [Busy Bee 프로젝트 소개.pdf](https://github.com/onlyoy/Project_Busybee/files/11622914/_.10_._.pdf)
 
-<br/><br/><br/>
+<br/><br/>
 <h3>📚 Summary 📚</h3>
 교육기관 멀티캠퍼스에서 진행한 팀 세미 프로젝트 결과물입니다
 
@@ -21,6 +21,12 @@
 
 $\textcolor{red}{\textsf{Spring framework}}$로 웹 개발의 시작을 끊으면서 구글링이나 팀원들과의 소통을 통해서 모르던 기능들을 습득하게 되었던 프로젝트 입니다.
 
-
+<br/>
+<h3>📚 주요기능 📚</h3>
+<ul>
+   <li>게시판</li>
+   <li>일정관리</li>
+   <li>채팅</li>
+</ul>
 
 
