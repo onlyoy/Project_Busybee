@@ -43,7 +43,6 @@ $\textcolor{red}{\textsf{Spring framework}}$로 웹 개발의 시작을 끊으�
 <br/>
 <h3>📚 Skill set 📚</h3>
 <ul>
-   <li>FrontEnd : JavaScript, jquery, ajax</li>
-   <li>BackEnd : SpringFramework, ApacheTomcat, MySQL</li>
-   <li>Deployment : </li>
+   <li>FrontEnd : VS Code</li>
+   <li>Deployment : Docker, AWS</li>
 </ul>
