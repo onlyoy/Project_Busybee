@@ -1,5 +1,5 @@
 # Project_Busybee
-효율적인 팀 프로젝트를 위한 협업 Tool : Busy Bee
+<p style="font-weight: bold">효율적인 팀 프로젝트를 위한 협업 Tool : Busy Bee</p>
 
 1. 열심히 일하자!
 2. 체계적으로 일하자!
