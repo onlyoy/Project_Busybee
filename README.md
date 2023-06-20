@@ -4,7 +4,10 @@
 1. 열심히 일하자!
 2. 체계적으로 일하자!
 3. 협동해서 일하자!
+   
+--- 아래 PDF를 통해 프로젝트 내용 상세 확인이 가능합니다 ---
 
+[Busy Bee 프로젝트 소개.pdf](https://github.com/onlyoy/Project_Busybee/files/11622914/_.10_._.pdf)
 
 <br/><br/><br/>
 교육기관 멀티캠퍼스에서 진행한 팀 세미 프로젝트 결과물입니다
@@ -17,6 +20,4 @@
 
 $\textcolor{red}{\textsf{Spring framework}}$로 웹 개발의 시작을 끊으면서 구글링이나 팀원들과의 소통을 통해서 모르던 기능들을 습득하게 되었던 프로젝트 입니다.
 
---- 아래 PDF를 통해 프로젝트 내용 상세 확인이 가능합니다 ---
 
-[Busy Bee 프로젝트 소개.pdf](https://github.com/onlyoy/Project_Busybee/files/11622914/_.10_._.pdf)
