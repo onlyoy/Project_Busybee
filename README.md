@@ -28,6 +28,7 @@ $\textcolor{red}{\textsf{Spring framework}}$로 웹 개발의 시작을 끊으�
    <li>게시판</li>
    <li>일정관리</li>
    <li>채팅</li>
+   <li>운영자/관리자페이지</li>
 </ul>
 
 <br/>
